@@ -1,0 +1,16 @@
+G:\Projects\2022\LearningRepos\Chapter02\NullHanding\obj\Debug\net5.0\NullHanding.csproj.AssemblyReference.cache
+G:\Projects\2022\LearningRepos\Chapter02\NullHanding\obj\Debug\net5.0\NullHanding.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\2022\LearningRepos\Chapter02\NullHanding\obj\Debug\net5.0\NullHanding.AssemblyInfoInputs.cache
+G:\Projects\2022\LearningRepos\Chapter02\NullHanding\obj\Debug\net5.0\NullHanding.AssemblyInfo.cs
+G:\Projects\2022\LearningRepos\Chapter02\NullHanding\obj\Debug\net5.0\NullHanding.csproj.CoreCompileInputs.cache
+G:\Projects\2022\LearningRepos\Chapter02\NullHanding\bin\Debug\net5.0\NullHanding.exe
+G:\Projects\2022\LearningRepos\Chapter02\NullHanding\bin\Debug\net5.0\NullHanding.deps.json
+G:\Projects\2022\LearningRepos\Chapter02\NullHanding\bin\Debug\net5.0\NullHanding.runtimeconfig.json
+G:\Projects\2022\LearningRepos\Chapter02\NullHanding\bin\Debug\net5.0\NullHanding.runtimeconfig.dev.json
+G:\Projects\2022\LearningRepos\Chapter02\NullHanding\bin\Debug\net5.0\NullHanding.dll
+G:\Projects\2022\LearningRepos\Chapter02\NullHanding\bin\Debug\net5.0\ref\NullHanding.dll
+G:\Projects\2022\LearningRepos\Chapter02\NullHanding\bin\Debug\net5.0\NullHanding.pdb
+G:\Projects\2022\LearningRepos\Chapter02\NullHanding\obj\Debug\net5.0\NullHanding.dll
+G:\Projects\2022\LearningRepos\Chapter02\NullHanding\obj\Debug\net5.0\ref\NullHanding.dll
+G:\Projects\2022\LearningRepos\Chapter02\NullHanding\obj\Debug\net5.0\NullHanding.pdb
+G:\Projects\2022\LearningRepos\Chapter02\NullHanding\obj\Debug\net5.0\NullHanding.genruntimeconfig.cache

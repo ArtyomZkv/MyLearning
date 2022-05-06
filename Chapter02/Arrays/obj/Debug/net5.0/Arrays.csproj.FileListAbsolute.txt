@@ -1,0 +1,16 @@
+G:\Projects\2022\LearningRepos\Chapter02\Arrays\obj\Debug\net5.0\Arrays.csproj.AssemblyReference.cache
+G:\Projects\2022\LearningRepos\Chapter02\Arrays\obj\Debug\net5.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\2022\LearningRepos\Chapter02\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfoInputs.cache
+G:\Projects\2022\LearningRepos\Chapter02\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfo.cs
+G:\Projects\2022\LearningRepos\Chapter02\Arrays\obj\Debug\net5.0\Arrays.csproj.CoreCompileInputs.cache
+G:\Projects\2022\LearningRepos\Chapter02\Arrays\bin\Debug\net5.0\Arrays.exe
+G:\Projects\2022\LearningRepos\Chapter02\Arrays\bin\Debug\net5.0\Arrays.deps.json
+G:\Projects\2022\LearningRepos\Chapter02\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.json
+G:\Projects\2022\LearningRepos\Chapter02\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.dev.json
+G:\Projects\2022\LearningRepos\Chapter02\Arrays\bin\Debug\net5.0\Arrays.dll
+G:\Projects\2022\LearningRepos\Chapter02\Arrays\bin\Debug\net5.0\ref\Arrays.dll
+G:\Projects\2022\LearningRepos\Chapter02\Arrays\bin\Debug\net5.0\Arrays.pdb
+G:\Projects\2022\LearningRepos\Chapter02\Arrays\obj\Debug\net5.0\Arrays.dll
+G:\Projects\2022\LearningRepos\Chapter02\Arrays\obj\Debug\net5.0\ref\Arrays.dll
+G:\Projects\2022\LearningRepos\Chapter02\Arrays\obj\Debug\net5.0\Arrays.pdb
+G:\Projects\2022\LearningRepos\Chapter02\Arrays\obj\Debug\net5.0\Arrays.genruntimeconfig.cache

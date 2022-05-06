@@ -1,0 +1,16 @@
+G:\Projects\2022\LearningRepos\HelloCS\bin\Debug\net5.0\HelloCS.exe
+G:\Projects\2022\LearningRepos\HelloCS\bin\Debug\net5.0\HelloCS.deps.json
+G:\Projects\2022\LearningRepos\HelloCS\bin\Debug\net5.0\HelloCS.runtimeconfig.json
+G:\Projects\2022\LearningRepos\HelloCS\bin\Debug\net5.0\HelloCS.runtimeconfig.dev.json
+G:\Projects\2022\LearningRepos\HelloCS\bin\Debug\net5.0\HelloCS.dll
+G:\Projects\2022\LearningRepos\HelloCS\bin\Debug\net5.0\ref\HelloCS.dll
+G:\Projects\2022\LearningRepos\HelloCS\bin\Debug\net5.0\HelloCS.pdb
+G:\Projects\2022\LearningRepos\HelloCS\obj\Debug\net5.0\HelloCS.csproj.AssemblyReference.cache
+G:\Projects\2022\LearningRepos\HelloCS\obj\Debug\net5.0\HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\2022\LearningRepos\HelloCS\obj\Debug\net5.0\HelloCS.AssemblyInfoInputs.cache
+G:\Projects\2022\LearningRepos\HelloCS\obj\Debug\net5.0\HelloCS.AssemblyInfo.cs
+G:\Projects\2022\LearningRepos\HelloCS\obj\Debug\net5.0\HelloCS.csproj.CoreCompileInputs.cache
+G:\Projects\2022\LearningRepos\HelloCS\obj\Debug\net5.0\HelloCS.dll
+G:\Projects\2022\LearningRepos\HelloCS\obj\Debug\net5.0\ref\HelloCS.dll
+G:\Projects\2022\LearningRepos\HelloCS\obj\Debug\net5.0\HelloCS.pdb
+G:\Projects\2022\LearningRepos\HelloCS\obj\Debug\net5.0\HelloCS.genruntimeconfig.cache

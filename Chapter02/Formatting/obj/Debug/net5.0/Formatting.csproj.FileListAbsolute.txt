@@ -1,0 +1,16 @@
+G:\Projects\2022\LearningRepos\Chapter02\Formatting\bin\Debug\net5.0\Formatting.exe
+G:\Projects\2022\LearningRepos\Chapter02\Formatting\bin\Debug\net5.0\Formatting.deps.json
+G:\Projects\2022\LearningRepos\Chapter02\Formatting\bin\Debug\net5.0\Formatting.runtimeconfig.json
+G:\Projects\2022\LearningRepos\Chapter02\Formatting\bin\Debug\net5.0\Formatting.runtimeconfig.dev.json
+G:\Projects\2022\LearningRepos\Chapter02\Formatting\bin\Debug\net5.0\Formatting.dll
+G:\Projects\2022\LearningRepos\Chapter02\Formatting\bin\Debug\net5.0\ref\Formatting.dll
+G:\Projects\2022\LearningRepos\Chapter02\Formatting\bin\Debug\net5.0\Formatting.pdb
+G:\Projects\2022\LearningRepos\Chapter02\Formatting\obj\Debug\net5.0\Formatting.csproj.AssemblyReference.cache
+G:\Projects\2022\LearningRepos\Chapter02\Formatting\obj\Debug\net5.0\Formatting.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\2022\LearningRepos\Chapter02\Formatting\obj\Debug\net5.0\Formatting.AssemblyInfoInputs.cache
+G:\Projects\2022\LearningRepos\Chapter02\Formatting\obj\Debug\net5.0\Formatting.AssemblyInfo.cs
+G:\Projects\2022\LearningRepos\Chapter02\Formatting\obj\Debug\net5.0\Formatting.csproj.CoreCompileInputs.cache
+G:\Projects\2022\LearningRepos\Chapter02\Formatting\obj\Debug\net5.0\Formatting.dll
+G:\Projects\2022\LearningRepos\Chapter02\Formatting\obj\Debug\net5.0\ref\Formatting.dll
+G:\Projects\2022\LearningRepos\Chapter02\Formatting\obj\Debug\net5.0\Formatting.pdb
+G:\Projects\2022\LearningRepos\Chapter02\Formatting\obj\Debug\net5.0\Formatting.genruntimeconfig.cache

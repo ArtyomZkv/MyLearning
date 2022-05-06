@@ -1,0 +1,16 @@
+G:\Projects\2022\LearningRepos\Chapter02\Variables\obj\Debug\net5.0\Variables.csproj.AssemblyReference.cache
+G:\Projects\2022\LearningRepos\Chapter02\Variables\obj\Debug\net5.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\2022\LearningRepos\Chapter02\Variables\obj\Debug\net5.0\Variables.AssemblyInfoInputs.cache
+G:\Projects\2022\LearningRepos\Chapter02\Variables\obj\Debug\net5.0\Variables.AssemblyInfo.cs
+G:\Projects\2022\LearningRepos\Chapter02\Variables\obj\Debug\net5.0\Variables.csproj.CoreCompileInputs.cache
+G:\Projects\2022\LearningRepos\Chapter02\Variables\bin\Debug\net5.0\Variables.exe
+G:\Projects\2022\LearningRepos\Chapter02\Variables\bin\Debug\net5.0\Variables.deps.json
+G:\Projects\2022\LearningRepos\Chapter02\Variables\bin\Debug\net5.0\Variables.runtimeconfig.json
+G:\Projects\2022\LearningRepos\Chapter02\Variables\bin\Debug\net5.0\Variables.runtimeconfig.dev.json
+G:\Projects\2022\LearningRepos\Chapter02\Variables\bin\Debug\net5.0\Variables.dll
+G:\Projects\2022\LearningRepos\Chapter02\Variables\bin\Debug\net5.0\ref\Variables.dll
+G:\Projects\2022\LearningRepos\Chapter02\Variables\bin\Debug\net5.0\Variables.pdb
+G:\Projects\2022\LearningRepos\Chapter02\Variables\obj\Debug\net5.0\Variables.dll
+G:\Projects\2022\LearningRepos\Chapter02\Variables\obj\Debug\net5.0\ref\Variables.dll
+G:\Projects\2022\LearningRepos\Chapter02\Variables\obj\Debug\net5.0\Variables.pdb
+G:\Projects\2022\LearningRepos\Chapter02\Variables\obj\Debug\net5.0\Variables.genruntimeconfig.cache

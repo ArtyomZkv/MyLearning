@@ -30,13 +30,13 @@ namespace Variables
             var xml1 = new XmlDocument();
             XmlDocument xml2 = new XmlDocument();
 
-            var file1 = File.CreateText(@"C:\Soft\something.txt");
-            StreamWriter file2 = File.CreateText(@"C:\Soft\something1.txt");
+            var file1 = File.CreateText(@"E:\VisualStudio\Repos\2022\MyLearning\Chapter02\text.txt");
+            StreamWriter file2 = File.CreateText(@"E:\VisualStudio\Repos\2022\MyLearning\Chapter02\text1.txt");
 
             System.Console.WriteLine($"default(int)= {default(int)}");
             System.Console.WriteLine($"default(bool) = {default(bool)}");
             System.Console.WriteLine($"default(DateTime) = {default(DateTime)}");
             System.Console.WriteLine($"default(string) = {default(string)}");
-        }           
+        }
     }
 }

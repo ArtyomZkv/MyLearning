@@ -1,0 +1,16 @@
+G:\Projects\2022\LearningRepos\Chapter03\Exercise03\bin\Debug\net5.0\Exercise03.exe
+G:\Projects\2022\LearningRepos\Chapter03\Exercise03\bin\Debug\net5.0\Exercise03.deps.json
+G:\Projects\2022\LearningRepos\Chapter03\Exercise03\bin\Debug\net5.0\Exercise03.runtimeconfig.json
+G:\Projects\2022\LearningRepos\Chapter03\Exercise03\bin\Debug\net5.0\Exercise03.runtimeconfig.dev.json
+G:\Projects\2022\LearningRepos\Chapter03\Exercise03\bin\Debug\net5.0\Exercise03.dll
+G:\Projects\2022\LearningRepos\Chapter03\Exercise03\bin\Debug\net5.0\ref\Exercise03.dll
+G:\Projects\2022\LearningRepos\Chapter03\Exercise03\bin\Debug\net5.0\Exercise03.pdb
+G:\Projects\2022\LearningRepos\Chapter03\Exercise03\obj\Debug\net5.0\Exercise03.csproj.AssemblyReference.cache
+G:\Projects\2022\LearningRepos\Chapter03\Exercise03\obj\Debug\net5.0\Exercise03.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\2022\LearningRepos\Chapter03\Exercise03\obj\Debug\net5.0\Exercise03.AssemblyInfoInputs.cache
+G:\Projects\2022\LearningRepos\Chapter03\Exercise03\obj\Debug\net5.0\Exercise03.AssemblyInfo.cs
+G:\Projects\2022\LearningRepos\Chapter03\Exercise03\obj\Debug\net5.0\Exercise03.csproj.CoreCompileInputs.cache
+G:\Projects\2022\LearningRepos\Chapter03\Exercise03\obj\Debug\net5.0\Exercise03.dll
+G:\Projects\2022\LearningRepos\Chapter03\Exercise03\obj\Debug\net5.0\ref\Exercise03.dll
+G:\Projects\2022\LearningRepos\Chapter03\Exercise03\obj\Debug\net5.0\Exercise03.pdb
+G:\Projects\2022\LearningRepos\Chapter03\Exercise03\obj\Debug\net5.0\Exercise03.genruntimeconfig.cache

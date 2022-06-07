@@ -1,4 +1,5 @@
 ﻿using System;
+using static System.Console;
 
 namespace Formatting
 {
@@ -6,10 +7,16 @@ namespace Formatting
     {
         static void Main()
         {
+            Write("Press any key combination: ");
+            ConsoleKeyInfo key = ReadKey();
+
+            WriteLine();
+            WriteLine($"Key: {key.Key}, Char: {key.KeyChar}, {key.Modifiers}");
+
             int numbersOfApples = 12;
             decimal pricePerApple = 0.35M;
 
-            Console.WriteLine(
+            WriteLine(
                 format: "{0} apples cost {1:C}",
                 arg0: numbersOfApples,
                 arg1: pricePerApple * numbersOfApples);
@@ -19,8 +26,8 @@ namespace Formatting
                 arg0: numbersOfApples,
                 arg1: pricePerApple * numbersOfApples);
 
-            Console.WriteLine($"{numbersOfApples} apples cost {pricePerApple * numbersOfApples:C}");
-            Console.WriteLine(formatted);
+            WriteLine($"{numbersOfApples} apples cost {pricePerApple * numbersOfApples:C}");
+            WriteLine(formatted);
         }
     }
 }

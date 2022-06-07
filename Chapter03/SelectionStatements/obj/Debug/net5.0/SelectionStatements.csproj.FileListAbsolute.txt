@@ -1,0 +1,16 @@
+G:\Projects\2022\LearningRepos\Chapter03\SelectionStatements\bin\Debug\net5.0\SelectionStatements.exe
+G:\Projects\2022\LearningRepos\Chapter03\SelectionStatements\bin\Debug\net5.0\SelectionStatements.deps.json
+G:\Projects\2022\LearningRepos\Chapter03\SelectionStatements\bin\Debug\net5.0\SelectionStatements.runtimeconfig.json
+G:\Projects\2022\LearningRepos\Chapter03\SelectionStatements\bin\Debug\net5.0\SelectionStatements.runtimeconfig.dev.json
+G:\Projects\2022\LearningRepos\Chapter03\SelectionStatements\bin\Debug\net5.0\SelectionStatements.dll
+G:\Projects\2022\LearningRepos\Chapter03\SelectionStatements\bin\Debug\net5.0\ref\SelectionStatements.dll
+G:\Projects\2022\LearningRepos\Chapter03\SelectionStatements\bin\Debug\net5.0\SelectionStatements.pdb
+G:\Projects\2022\LearningRepos\Chapter03\SelectionStatements\obj\Debug\net5.0\SelectionStatements.csproj.AssemblyReference.cache
+G:\Projects\2022\LearningRepos\Chapter03\SelectionStatements\obj\Debug\net5.0\SelectionStatements.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\2022\LearningRepos\Chapter03\SelectionStatements\obj\Debug\net5.0\SelectionStatements.AssemblyInfoInputs.cache
+G:\Projects\2022\LearningRepos\Chapter03\SelectionStatements\obj\Debug\net5.0\SelectionStatements.AssemblyInfo.cs
+G:\Projects\2022\LearningRepos\Chapter03\SelectionStatements\obj\Debug\net5.0\SelectionStatements.csproj.CoreCompileInputs.cache
+G:\Projects\2022\LearningRepos\Chapter03\SelectionStatements\obj\Debug\net5.0\SelectionStatements.dll
+G:\Projects\2022\LearningRepos\Chapter03\SelectionStatements\obj\Debug\net5.0\ref\SelectionStatements.dll
+G:\Projects\2022\LearningRepos\Chapter03\SelectionStatements\obj\Debug\net5.0\SelectionStatements.pdb
+G:\Projects\2022\LearningRepos\Chapter03\SelectionStatements\obj\Debug\net5.0\SelectionStatements.genruntimeconfig.cache

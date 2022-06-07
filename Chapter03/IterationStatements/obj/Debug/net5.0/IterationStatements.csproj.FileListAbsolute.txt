@@ -1,0 +1,16 @@
+G:\Projects\2022\LearningRepos\Chapter03\IterationStatements\bin\Debug\net5.0\IterationStatements.exe
+G:\Projects\2022\LearningRepos\Chapter03\IterationStatements\bin\Debug\net5.0\IterationStatements.deps.json
+G:\Projects\2022\LearningRepos\Chapter03\IterationStatements\bin\Debug\net5.0\IterationStatements.runtimeconfig.json
+G:\Projects\2022\LearningRepos\Chapter03\IterationStatements\bin\Debug\net5.0\IterationStatements.runtimeconfig.dev.json
+G:\Projects\2022\LearningRepos\Chapter03\IterationStatements\bin\Debug\net5.0\IterationStatements.dll
+G:\Projects\2022\LearningRepos\Chapter03\IterationStatements\bin\Debug\net5.0\ref\IterationStatements.dll
+G:\Projects\2022\LearningRepos\Chapter03\IterationStatements\bin\Debug\net5.0\IterationStatements.pdb
+G:\Projects\2022\LearningRepos\Chapter03\IterationStatements\obj\Debug\net5.0\IterationStatements.csproj.AssemblyReference.cache
+G:\Projects\2022\LearningRepos\Chapter03\IterationStatements\obj\Debug\net5.0\IterationStatements.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\2022\LearningRepos\Chapter03\IterationStatements\obj\Debug\net5.0\IterationStatements.AssemblyInfoInputs.cache
+G:\Projects\2022\LearningRepos\Chapter03\IterationStatements\obj\Debug\net5.0\IterationStatements.AssemblyInfo.cs
+G:\Projects\2022\LearningRepos\Chapter03\IterationStatements\obj\Debug\net5.0\IterationStatements.csproj.CoreCompileInputs.cache
+G:\Projects\2022\LearningRepos\Chapter03\IterationStatements\obj\Debug\net5.0\IterationStatements.dll
+G:\Projects\2022\LearningRepos\Chapter03\IterationStatements\obj\Debug\net5.0\ref\IterationStatements.dll
+G:\Projects\2022\LearningRepos\Chapter03\IterationStatements\obj\Debug\net5.0\IterationStatements.pdb
+G:\Projects\2022\LearningRepos\Chapter03\IterationStatements\obj\Debug\net5.0\IterationStatements.genruntimeconfig.cache

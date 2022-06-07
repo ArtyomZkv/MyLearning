@@ -1,0 +1,16 @@
+G:\Projects\2022\LearningRepos\Chapter03\CastingConverting\obj\Debug\net5.0\CastingConverting.csproj.AssemblyReference.cache
+G:\Projects\2022\LearningRepos\Chapter03\CastingConverting\obj\Debug\net5.0\CastingConverting.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\2022\LearningRepos\Chapter03\CastingConverting\obj\Debug\net5.0\CastingConverting.AssemblyInfoInputs.cache
+G:\Projects\2022\LearningRepos\Chapter03\CastingConverting\obj\Debug\net5.0\CastingConverting.AssemblyInfo.cs
+G:\Projects\2022\LearningRepos\Chapter03\CastingConverting\obj\Debug\net5.0\CastingConverting.csproj.CoreCompileInputs.cache
+G:\Projects\2022\LearningRepos\Chapter03\CastingConverting\bin\Debug\net5.0\CastingConverting.exe
+G:\Projects\2022\LearningRepos\Chapter03\CastingConverting\bin\Debug\net5.0\CastingConverting.deps.json
+G:\Projects\2022\LearningRepos\Chapter03\CastingConverting\bin\Debug\net5.0\CastingConverting.runtimeconfig.json
+G:\Projects\2022\LearningRepos\Chapter03\CastingConverting\bin\Debug\net5.0\CastingConverting.runtimeconfig.dev.json
+G:\Projects\2022\LearningRepos\Chapter03\CastingConverting\bin\Debug\net5.0\CastingConverting.dll
+G:\Projects\2022\LearningRepos\Chapter03\CastingConverting\bin\Debug\net5.0\ref\CastingConverting.dll
+G:\Projects\2022\LearningRepos\Chapter03\CastingConverting\bin\Debug\net5.0\CastingConverting.pdb
+G:\Projects\2022\LearningRepos\Chapter03\CastingConverting\obj\Debug\net5.0\CastingConverting.dll
+G:\Projects\2022\LearningRepos\Chapter03\CastingConverting\obj\Debug\net5.0\ref\CastingConverting.dll
+G:\Projects\2022\LearningRepos\Chapter03\CastingConverting\obj\Debug\net5.0\CastingConverting.pdb
+G:\Projects\2022\LearningRepos\Chapter03\CastingConverting\obj\Debug\net5.0\CastingConverting.genruntimeconfig.cache

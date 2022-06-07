@@ -1,0 +1,16 @@
+G:\Projects\2022\LearningRepos\Chapter03\HandlingExceptions\bin\Debug\net5.0\HandlingExceptions.exe
+G:\Projects\2022\LearningRepos\Chapter03\HandlingExceptions\bin\Debug\net5.0\HandlingExceptions.deps.json
+G:\Projects\2022\LearningRepos\Chapter03\HandlingExceptions\bin\Debug\net5.0\HandlingExceptions.runtimeconfig.json
+G:\Projects\2022\LearningRepos\Chapter03\HandlingExceptions\bin\Debug\net5.0\HandlingExceptions.runtimeconfig.dev.json
+G:\Projects\2022\LearningRepos\Chapter03\HandlingExceptions\bin\Debug\net5.0\HandlingExceptions.dll
+G:\Projects\2022\LearningRepos\Chapter03\HandlingExceptions\bin\Debug\net5.0\ref\HandlingExceptions.dll
+G:\Projects\2022\LearningRepos\Chapter03\HandlingExceptions\bin\Debug\net5.0\HandlingExceptions.pdb
+G:\Projects\2022\LearningRepos\Chapter03\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.csproj.AssemblyReference.cache
+G:\Projects\2022\LearningRepos\Chapter03\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\2022\LearningRepos\Chapter03\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.AssemblyInfoInputs.cache
+G:\Projects\2022\LearningRepos\Chapter03\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.AssemblyInfo.cs
+G:\Projects\2022\LearningRepos\Chapter03\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.csproj.CoreCompileInputs.cache
+G:\Projects\2022\LearningRepos\Chapter03\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.dll
+G:\Projects\2022\LearningRepos\Chapter03\HandlingExceptions\obj\Debug\net5.0\ref\HandlingExceptions.dll
+G:\Projects\2022\LearningRepos\Chapter03\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.pdb
+G:\Projects\2022\LearningRepos\Chapter03\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.genruntimeconfig.cache

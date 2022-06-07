@@ -1,0 +1,16 @@
+G:\Projects\2022\LearningRepos\Chapter03\Operators\bin\Debug\net5.0\Operators.exe
+G:\Projects\2022\LearningRepos\Chapter03\Operators\bin\Debug\net5.0\Operators.deps.json
+G:\Projects\2022\LearningRepos\Chapter03\Operators\bin\Debug\net5.0\Operators.runtimeconfig.json
+G:\Projects\2022\LearningRepos\Chapter03\Operators\bin\Debug\net5.0\Operators.runtimeconfig.dev.json
+G:\Projects\2022\LearningRepos\Chapter03\Operators\bin\Debug\net5.0\Operators.dll
+G:\Projects\2022\LearningRepos\Chapter03\Operators\bin\Debug\net5.0\ref\Operators.dll
+G:\Projects\2022\LearningRepos\Chapter03\Operators\bin\Debug\net5.0\Operators.pdb
+G:\Projects\2022\LearningRepos\Chapter03\Operators\obj\Debug\net5.0\Operators.csproj.AssemblyReference.cache
+G:\Projects\2022\LearningRepos\Chapter03\Operators\obj\Debug\net5.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\2022\LearningRepos\Chapter03\Operators\obj\Debug\net5.0\Operators.AssemblyInfoInputs.cache
+G:\Projects\2022\LearningRepos\Chapter03\Operators\obj\Debug\net5.0\Operators.AssemblyInfo.cs
+G:\Projects\2022\LearningRepos\Chapter03\Operators\obj\Debug\net5.0\Operators.csproj.CoreCompileInputs.cache
+G:\Projects\2022\LearningRepos\Chapter03\Operators\obj\Debug\net5.0\Operators.dll
+G:\Projects\2022\LearningRepos\Chapter03\Operators\obj\Debug\net5.0\ref\Operators.dll
+G:\Projects\2022\LearningRepos\Chapter03\Operators\obj\Debug\net5.0\Operators.pdb
+G:\Projects\2022\LearningRepos\Chapter03\Operators\obj\Debug\net5.0\Operators.genruntimeconfig.cache

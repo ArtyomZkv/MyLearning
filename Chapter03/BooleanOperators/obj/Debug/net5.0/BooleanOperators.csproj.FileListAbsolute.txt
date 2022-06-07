@@ -1,0 +1,16 @@
+G:\Projects\2022\LearningRepos\Chapter03\BooleanOperators\obj\Debug\net5.0\BooleanOperators.csproj.AssemblyReference.cache
+G:\Projects\2022\LearningRepos\Chapter03\BooleanOperators\obj\Debug\net5.0\BooleanOperators.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\2022\LearningRepos\Chapter03\BooleanOperators\obj\Debug\net5.0\BooleanOperators.AssemblyInfoInputs.cache
+G:\Projects\2022\LearningRepos\Chapter03\BooleanOperators\obj\Debug\net5.0\BooleanOperators.AssemblyInfo.cs
+G:\Projects\2022\LearningRepos\Chapter03\BooleanOperators\obj\Debug\net5.0\BooleanOperators.csproj.CoreCompileInputs.cache
+G:\Projects\2022\LearningRepos\Chapter03\BooleanOperators\bin\Debug\net5.0\BooleanOperators.exe
+G:\Projects\2022\LearningRepos\Chapter03\BooleanOperators\bin\Debug\net5.0\BooleanOperators.deps.json
+G:\Projects\2022\LearningRepos\Chapter03\BooleanOperators\bin\Debug\net5.0\BooleanOperators.runtimeconfig.json
+G:\Projects\2022\LearningRepos\Chapter03\BooleanOperators\bin\Debug\net5.0\BooleanOperators.runtimeconfig.dev.json
+G:\Projects\2022\LearningRepos\Chapter03\BooleanOperators\bin\Debug\net5.0\BooleanOperators.dll
+G:\Projects\2022\LearningRepos\Chapter03\BooleanOperators\bin\Debug\net5.0\ref\BooleanOperators.dll
+G:\Projects\2022\LearningRepos\Chapter03\BooleanOperators\bin\Debug\net5.0\BooleanOperators.pdb
+G:\Projects\2022\LearningRepos\Chapter03\BooleanOperators\obj\Debug\net5.0\BooleanOperators.dll
+G:\Projects\2022\LearningRepos\Chapter03\BooleanOperators\obj\Debug\net5.0\ref\BooleanOperators.dll
+G:\Projects\2022\LearningRepos\Chapter03\BooleanOperators\obj\Debug\net5.0\BooleanOperators.pdb
+G:\Projects\2022\LearningRepos\Chapter03\BooleanOperators\obj\Debug\net5.0\BooleanOperators.genruntimeconfig.cache

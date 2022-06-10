@@ -1,0 +1,16 @@
+G:\Projects\2022\LearningRepos\Chapter04\WritingFunctions\obj\Debug\net5.0\WritingFunctions.csproj.AssemblyReference.cache
+G:\Projects\2022\LearningRepos\Chapter04\WritingFunctions\obj\Debug\net5.0\WritingFunctions.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\2022\LearningRepos\Chapter04\WritingFunctions\obj\Debug\net5.0\WritingFunctions.AssemblyInfoInputs.cache
+G:\Projects\2022\LearningRepos\Chapter04\WritingFunctions\obj\Debug\net5.0\WritingFunctions.AssemblyInfo.cs
+G:\Projects\2022\LearningRepos\Chapter04\WritingFunctions\obj\Debug\net5.0\WritingFunctions.csproj.CoreCompileInputs.cache
+G:\Projects\2022\LearningRepos\Chapter04\WritingFunctions\bin\Debug\net5.0\WritingFunctions.exe
+G:\Projects\2022\LearningRepos\Chapter04\WritingFunctions\bin\Debug\net5.0\WritingFunctions.deps.json
+G:\Projects\2022\LearningRepos\Chapter04\WritingFunctions\bin\Debug\net5.0\WritingFunctions.runtimeconfig.json
+G:\Projects\2022\LearningRepos\Chapter04\WritingFunctions\bin\Debug\net5.0\WritingFunctions.runtimeconfig.dev.json
+G:\Projects\2022\LearningRepos\Chapter04\WritingFunctions\bin\Debug\net5.0\WritingFunctions.dll
+G:\Projects\2022\LearningRepos\Chapter04\WritingFunctions\bin\Debug\net5.0\ref\WritingFunctions.dll
+G:\Projects\2022\LearningRepos\Chapter04\WritingFunctions\bin\Debug\net5.0\WritingFunctions.pdb
+G:\Projects\2022\LearningRepos\Chapter04\WritingFunctions\obj\Debug\net5.0\WritingFunctions.dll
+G:\Projects\2022\LearningRepos\Chapter04\WritingFunctions\obj\Debug\net5.0\ref\WritingFunctions.dll
+G:\Projects\2022\LearningRepos\Chapter04\WritingFunctions\obj\Debug\net5.0\WritingFunctions.pdb
+G:\Projects\2022\LearningRepos\Chapter04\WritingFunctions\obj\Debug\net5.0\WritingFunctions.genruntimeconfig.cache

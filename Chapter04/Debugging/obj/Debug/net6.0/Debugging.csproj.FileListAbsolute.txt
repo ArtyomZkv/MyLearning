@@ -1,0 +1,15 @@
+G:\Projects\2022\LearningRepos\Chapter04\Debugging\bin\Debug\net6.0\Debugging.exe
+G:\Projects\2022\LearningRepos\Chapter04\Debugging\bin\Debug\net6.0\Debugging.deps.json
+G:\Projects\2022\LearningRepos\Chapter04\Debugging\bin\Debug\net6.0\Debugging.runtimeconfig.json
+G:\Projects\2022\LearningRepos\Chapter04\Debugging\bin\Debug\net6.0\Debugging.dll
+G:\Projects\2022\LearningRepos\Chapter04\Debugging\bin\Debug\net6.0\Debugging.pdb
+G:\Projects\2022\LearningRepos\Chapter04\Debugging\obj\Debug\net6.0\Debugging.csproj.AssemblyReference.cache
+G:\Projects\2022\LearningRepos\Chapter04\Debugging\obj\Debug\net6.0\Debugging.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\2022\LearningRepos\Chapter04\Debugging\obj\Debug\net6.0\Debugging.AssemblyInfoInputs.cache
+G:\Projects\2022\LearningRepos\Chapter04\Debugging\obj\Debug\net6.0\Debugging.AssemblyInfo.cs
+G:\Projects\2022\LearningRepos\Chapter04\Debugging\obj\Debug\net6.0\Debugging.csproj.CoreCompileInputs.cache
+G:\Projects\2022\LearningRepos\Chapter04\Debugging\obj\Debug\net6.0\Debugging.dll
+G:\Projects\2022\LearningRepos\Chapter04\Debugging\obj\Debug\net6.0\refint\Debugging.dll
+G:\Projects\2022\LearningRepos\Chapter04\Debugging\obj\Debug\net6.0\Debugging.pdb
+G:\Projects\2022\LearningRepos\Chapter04\Debugging\obj\Debug\net6.0\Debugging.genruntimeconfig.cache
+G:\Projects\2022\LearningRepos\Chapter04\Debugging\obj\Debug\net6.0\ref\Debugging.dll

@@ -1,0 +1,15 @@
+G:\Projects\2022\LearningRepos\Chapter04\Instrumenting\bin\Debug\net6.0\Instrumenting.exe
+G:\Projects\2022\LearningRepos\Chapter04\Instrumenting\bin\Debug\net6.0\Instrumenting.deps.json
+G:\Projects\2022\LearningRepos\Chapter04\Instrumenting\bin\Debug\net6.0\Instrumenting.runtimeconfig.json
+G:\Projects\2022\LearningRepos\Chapter04\Instrumenting\bin\Debug\net6.0\Instrumenting.dll
+G:\Projects\2022\LearningRepos\Chapter04\Instrumenting\bin\Debug\net6.0\Instrumenting.pdb
+G:\Projects\2022\LearningRepos\Chapter04\Instrumenting\obj\Debug\net6.0\Instrumenting.csproj.AssemblyReference.cache
+G:\Projects\2022\LearningRepos\Chapter04\Instrumenting\obj\Debug\net6.0\Instrumenting.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\2022\LearningRepos\Chapter04\Instrumenting\obj\Debug\net6.0\Instrumenting.AssemblyInfoInputs.cache
+G:\Projects\2022\LearningRepos\Chapter04\Instrumenting\obj\Debug\net6.0\Instrumenting.AssemblyInfo.cs
+G:\Projects\2022\LearningRepos\Chapter04\Instrumenting\obj\Debug\net6.0\Instrumenting.csproj.CoreCompileInputs.cache
+G:\Projects\2022\LearningRepos\Chapter04\Instrumenting\obj\Debug\net6.0\Instrumenting.dll
+G:\Projects\2022\LearningRepos\Chapter04\Instrumenting\obj\Debug\net6.0\refint\Instrumenting.dll
+G:\Projects\2022\LearningRepos\Chapter04\Instrumenting\obj\Debug\net6.0\Instrumenting.pdb
+G:\Projects\2022\LearningRepos\Chapter04\Instrumenting\obj\Debug\net6.0\Instrumenting.genruntimeconfig.cache
+G:\Projects\2022\LearningRepos\Chapter04\Instrumenting\obj\Debug\net6.0\ref\Instrumenting.dll

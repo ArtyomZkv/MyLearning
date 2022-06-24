@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PrimeNumbersApp/1.0.0": {
+        "dependencies": {
+          "PrimeNumbersLib": "1.0.0"
+        },
+        "runtime": {
+          "PrimeNumbersApp.dll": {}
+        }
+      },
+      "PrimeNumbersLib/1.0.0": {
+        "runtime": {
+          "PrimeNumbersLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PrimeNumbersApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PrimeNumbersLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

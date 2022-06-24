@@ -1,0 +1,12 @@
+G:\Projects\2022\LearningRepos\Chapter04\Homework\PrimeNumbersLib\bin\Debug\net6.0\PrimeNumbersLib.deps.json
+G:\Projects\2022\LearningRepos\Chapter04\Homework\PrimeNumbersLib\bin\Debug\net6.0\PrimeNumbersLib.dll
+G:\Projects\2022\LearningRepos\Chapter04\Homework\PrimeNumbersLib\bin\Debug\net6.0\PrimeNumbersLib.pdb
+G:\Projects\2022\LearningRepos\Chapter04\Homework\PrimeNumbersLib\obj\Debug\net6.0\PrimeNumbersLib.csproj.AssemblyReference.cache
+G:\Projects\2022\LearningRepos\Chapter04\Homework\PrimeNumbersLib\obj\Debug\net6.0\PrimeNumbersLib.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\2022\LearningRepos\Chapter04\Homework\PrimeNumbersLib\obj\Debug\net6.0\PrimeNumbersLib.AssemblyInfoInputs.cache
+G:\Projects\2022\LearningRepos\Chapter04\Homework\PrimeNumbersLib\obj\Debug\net6.0\PrimeNumbersLib.AssemblyInfo.cs
+G:\Projects\2022\LearningRepos\Chapter04\Homework\PrimeNumbersLib\obj\Debug\net6.0\PrimeNumbersLib.csproj.CoreCompileInputs.cache
+G:\Projects\2022\LearningRepos\Chapter04\Homework\PrimeNumbersLib\obj\Debug\net6.0\PrimeNumbersLib.dll
+G:\Projects\2022\LearningRepos\Chapter04\Homework\PrimeNumbersLib\obj\Debug\net6.0\refint\PrimeNumbersLib.dll
+G:\Projects\2022\LearningRepos\Chapter04\Homework\PrimeNumbersLib\obj\Debug\net6.0\PrimeNumbersLib.pdb
+G:\Projects\2022\LearningRepos\Chapter04\Homework\PrimeNumbersLib\obj\Debug\net6.0\ref\PrimeNumbersLib.dll

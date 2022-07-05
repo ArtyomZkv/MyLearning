@@ -106,5 +106,13 @@ internal class Program
 
         (string fruitName, int fruitNumber) = bob.GetFruit();
         System.Console.WriteLine($"Deconstructed: {fruitName}, {fruitNumber}");
+
+        System.Console.WriteLine(bob.SayHello());
+        System.Console.WriteLine(bob.SayHelloTo("Emily"));
+
+        System.Console.WriteLine(bob.OptionalParameters());
+        System.Console.WriteLine(bob.OptionalParameters("Jump!", 98.5));
+        System.Console.WriteLine(bob.OptionalParameters(number: 52.7, command: "Stay"));
+        System.Console.WriteLine(bob.OptionalParameters("Poke", active: false));
     }
 }

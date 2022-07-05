@@ -87,5 +87,24 @@ internal class Program
                                 gunny.Name,
                                 gunny.HomePlanet,
                                 gunny.Instantiated);
+
+        bob.WriteToConsole();
+        System.Console.WriteLine(bob.GetOrigin());
+
+        (string, int) fruit = bob.GetFruit();
+
+        System.Console.WriteLine($"{fruit.Item1}, {fruit.Item2} there are");
+
+        var fruitNamed = bob.GetNamedFruit();
+        System.Console.WriteLine($"There are {fruitNamed.Number} {fruitNamed.Name}.");
+
+        var thing1 = ("Neville", 4);
+        System.Console.WriteLine($"{thing1.Item1} has {thing1.Item2} children");
+
+        var thing2 = (bob.Name, bob.Children.Count);
+        System.Console.WriteLine($"{thing2.Name} has {thing2.Name} children");
+
+        (string fruitName, int fruitNumber) = bob.GetFruit();
+        System.Console.WriteLine($"Deconstructed: {fruitName}, {fruitNumber}");
     }
 }

@@ -5,6 +5,12 @@ internal class Program
 {
     static void Main()
     {
+        int a = 10;
+        int b = 20;
+        int c = 30;
+        int d = 10;
+        int e = 20;
+
         var bob = new Person()
         {
             Name = "Bob Smith",
@@ -114,5 +120,13 @@ internal class Program
         System.Console.WriteLine(bob.OptionalParameters("Jump!", 98.5));
         System.Console.WriteLine(bob.OptionalParameters(number: 52.7, command: "Stay"));
         System.Console.WriteLine(bob.OptionalParameters("Poke", active: false));
+
+        System.Console.WriteLine($"Before: a = {a}, b = {b}, c = {c}");
+        bob.PassingParameters(a, ref b, out c);
+        System.Console.WriteLine($"After: a = {a}, b = {b}, c = {c}");
+
+        System.Console.WriteLine($"Before: d = {d}, e = {e}");
+        bob.PassingParameters(d, ref e, out int f);
+        System.Console.WriteLine($"After: d = {d}, e = {e}, f = {f}");
     }
 }

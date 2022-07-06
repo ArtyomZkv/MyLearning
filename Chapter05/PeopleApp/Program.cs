@@ -128,5 +128,24 @@ internal class Program
         System.Console.WriteLine($"Before: d = {d}, e = {e}");
         bob.PassingParameters(d, ref e, out int f);
         System.Console.WriteLine($"After: d = {d}, e = {e}, f = {f}");
+
+        var sam = new Person
+        {
+            Name = "Sam",
+            DateOfBirth = new DateTime(1972, 1, 27)
+        };
+
+        System.Console.WriteLine(sam.Origin);
+        System.Console.WriteLine(sam.Greeting);
+        System.Console.WriteLine(sam.Age);
+
+        sam.FavoritePrimaryColor = "red";
+        System.Console.WriteLine($"Sam's favorite primary color is {sam.FavoritePrimaryColor}");
+
+        sam.Children.Add(new Person { Name = "Charlie" });
+        sam.Children.Add(new Person { Name = "Ella" });
+
+        System.Console.WriteLine($"Sam's first child is {sam.Children[0]}");
+        System.Console.WriteLine($"Sam's first child is {sam[0].Name}");
     }
 }

@@ -16,3 +16,5 @@ G:\Projects\2022\LearningRepos\Chapter05\PeopleApp\obj\Debug\net6.0\ref\PeopleAp
 G:\Projects\2022\LearningRepos\Chapter05\PeopleApp\bin\Debug\net6.0\PacktLibrary.dll
 G:\Projects\2022\LearningRepos\Chapter05\PeopleApp\bin\Debug\net6.0\PacktLibrary.pdb
 G:\Projects\2022\LearningRepos\Chapter05\PeopleApp\obj\Debug\net6.0\PeopleApp.csproj.CopyComplete
+G:\Projects\2022\LearningRepos\Chapter05\PeopleApp\bin\Debug\net6.0\PacktLibrary9.dll
+G:\Projects\2022\LearningRepos\Chapter05\PeopleApp\bin\Debug\net6.0\PacktLibrary9.pdb

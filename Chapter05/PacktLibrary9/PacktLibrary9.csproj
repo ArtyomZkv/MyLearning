@@ -1,15 +1,11 @@
 <Project Sdk="Microsoft.NET.Sdk">
-
-  <PropertyGroup>
-    <OutputType>Exe</OutputType>
+ <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
     <LangVersion>10</LangVersion>
     <ImplicitUsings>disable</ImplicitUsings>
     <Nullable>enable</Nullable>
-  </PropertyGroup>
+ </PropertyGroup>
   <ItemGroup>
     <ProjectReference Include="../PacktLibrary/PacktLibrary.csproj" />
-    <ProjectReference Include="../PacktLibrary9/PacktLibrary9.csproj" />
-  </ItemGroup>
-  
+ </ItemGroup>
 </Project>

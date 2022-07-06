@@ -147,5 +147,31 @@ internal class Program
 
         System.Console.WriteLine($"Sam's first child is {sam.Children[0]}");
         System.Console.WriteLine($"Sam's first child is {sam[0].Name}");
+
+        object[] passengers = {
+            new FirstClassPassenger { AirMiles = 1_419 },
+            new FirstClassPassenger { AirMiles = 16_562 },
+            new BuisnessClassPassenger(),
+            new CoachClassPassenger { CarryOnKG = 25.7 },
+            new CoachClassPassenger { CarryOnKG = 0 }
+        };
+
+        foreach (object passenger in passengers)
+        {
+            decimal flightCost = passenger switch
+            {
+                FirstClassPassenger p => p.AirMiles switch
+                {
+                    > 35000 => 1500M,
+                    > 15000 => 1750M,
+                    _       => 2000M
+                },
+                BuisnessClassPassenger => 1000M,
+                CoachClassPassenger p when p.CarryOnKG < 10.0 => 500M,
+                CoachClassPassenger => 650M,
+                _ => 800M
+            };
+            System.Console.WriteLine($"Flight costs {flightCost:C} for {passenger}");
+        }
     }
 }

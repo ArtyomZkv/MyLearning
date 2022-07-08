@@ -164,7 +164,7 @@ internal class Program
                 {
                     > 35000 => 1500M,
                     > 15000 => 1750M,
-                    _       => 2000M
+                    _ => 2000M
                 },
                 BuisnessClassPassenger => 1000M,
                 CoachClassPassenger p when p.CarryOnKG < 10.0 => 500M,
@@ -172,6 +172,24 @@ internal class Program
                 _ => 800M
             };
             System.Console.WriteLine($"Flight costs {flightCost:C} for {passenger}");
+
+            var jeff = new ImmutablePerson
+            {
+                FirstName = "Jeff",
+                LastName = "Winger"
+            };
+
+            //jeff.FirstName = "Geoff";
+            var car = new ImmutableVehicle
+            {
+                Brand = "Mazda MX-5 RF",
+                Color = "Soul Red Crystal Metallic",
+                Wheels = 4
+            };
+
+            var repaintedCar = car with { Color = "Polymenral Grey Metallic" };
+
+            System.Console.WriteLine("Original color was {0}, new color is {1}.", car.Color, repaintedCar.Color);
         }
     }
 }

@@ -34,3 +34,4 @@
 *.app
 
 /Chapter*/*/bin/Debug
+/Chapter*/*/obj/Debug

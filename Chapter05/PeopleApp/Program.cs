@@ -188,7 +188,7 @@ internal class Program
             };
 
             var repaintedCar = car with { Color = "Polymenral Grey Metallic" };
-
+~
             System.Console.WriteLine("Original color was {0}, new color is {1}.", car.Color, repaintedCar.Color);
         }
     }

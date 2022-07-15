@@ -22,6 +22,8 @@ namespace PeopleApp
 
             var baby3 = harry * mary;
             System.Console.WriteLine(baby3.Name);
+
+            System.Console.WriteLine($"5! is {Person.Factorial(5)}");
         }
     }
 }

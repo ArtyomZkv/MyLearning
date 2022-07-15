@@ -30,6 +30,24 @@
         {
             return Person.Procreate(p1, p2);
         }
+
+        public static int Factorial(int number)
+        {
+            if (number < 0)
+            {
+                throw new ArgumentException(
+                    $"{nameof(number)} cannot be less than zero.");
+            }
+            return localFactorial(number);
+
+            static int localFactorial(int localNumber)
+            {
+                if (localNumber < 1 ) return 1;
+
+                return localNumber * localFactorial(localNumber - 1);
+            }
+        }
+        
     }
 }
 

@@ -53,6 +53,13 @@ namespace PeopleApp
             {
                 System.Console.WriteLine($"{person.Name}");
             }
+
+            System.Console.WriteLine("Use PersonComparer's IComparer implementation to sort:");
+            Array.Sort(people, new PersonComparer());
+            foreach (var person in people)
+            {
+                System.Console.WriteLine($"{person.Name}");
+            }
         }
         private static void Harry_Shout(object sender, EventArgs e)
         {
@@ -60,5 +67,6 @@ namespace PeopleApp
             System.Console.WriteLine($"{p.Name} is this angry: {p.AngerLevel}.");
             System.Console.WriteLine($"{p.GetType()}, {sender.GetType()}");
         }
+        
     }
 }

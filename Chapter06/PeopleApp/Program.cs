@@ -24,6 +24,41 @@ namespace PeopleApp
             System.Console.WriteLine(baby3.Name);
 
             System.Console.WriteLine($"5! is {Person.Factorial(5)}");
+
+            harry.Shout += Harry_Shout;
+
+            harry.Poke();
+            harry.Poke();
+            harry.Poke();
+            harry.Poke();
+
+            Person[] people =
+            {
+                new Person { Name = "Simon" },
+                new Person { Name = "Jenny" },
+                new Person { Name = "Adam" },
+                new Person { Name = "Richard"}
+            };
+            
+            System.Console.WriteLine("Initial list of people:");
+            
+            foreach (var person in people)
+            {
+                System.Console.WriteLine($"{person.Name}");
+            }
+            
+            System.Console.WriteLine("Use Person's IComparable implementation to sort.");
+            Array.Sort(people);
+            foreach (var person in people)
+            {
+                System.Console.WriteLine($"{person.Name}");
+            }
+        }
+        private static void Harry_Shout(object sender, EventArgs e)
+        {
+            Person p = (Person)sender;
+            System.Console.WriteLine($"{p.Name} is this angry: {p.AngerLevel}.");
+            System.Console.WriteLine($"{p.GetType()}, {sender.GetType()}");
         }
     }
 }

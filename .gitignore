@@ -6,8 +6,6 @@
 *.lo
 *.o
 *.obj
-*.cache
-*.pdb
 
 # Precompiled Headers
 *.gch
@@ -32,7 +30,7 @@
 *.exe
 *.out
 *.app
+*.cache
+*.pdb
 
 /Chapter*/*/bin/Debug
-/Chapter*/*/obj/Debug
-/Chapter*/*/obj

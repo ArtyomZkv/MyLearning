@@ -6,5 +6,9 @@ namespace PacktLibrary.Shared
     {
         void Play();
         void Pause();
+        void Stop()
+        {
+            System.Console.WriteLine("Default implementation of Stop.");
+        }
     }
 }

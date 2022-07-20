@@ -68,6 +68,14 @@ namespace PeopleApp
             var t2 = new Thing();
             t2.Data = "apple";
             System.Console.WriteLine($"Thing with a string: {t2.Process("apple")}");
+
+            var gt1 = new GenericThing<int>();
+            gt1.Data = 42;
+            Console.WriteLine($"GenericThing with an integer:{gt1.Process(42)}");
+    
+            var gt2 = new GenericThing<string>();
+            gt2.Data = "apple";
+            Console.WriteLine($"GenericThing with a string: {gt2.Process("apple")}");
         }
         private static void Harry_Shout(object sender, EventArgs e)
         {

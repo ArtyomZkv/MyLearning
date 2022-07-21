@@ -4,7 +4,7 @@
     {
         public string Name;
         public string DateOfBirth;
-        public List<Person> Children = new List<Person>();
+        public List<Person> Children = new();
 
         public void WriteToConsole()
         {

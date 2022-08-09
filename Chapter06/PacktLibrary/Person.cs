@@ -3,7 +3,7 @@
     public class Person : IComparable<Person>
     {
         public string Name;
-        public string DateOfBirth;
+        public DateTime DateOfBirth;
         public List<Person> Children = new();
 
         public void WriteToConsole()

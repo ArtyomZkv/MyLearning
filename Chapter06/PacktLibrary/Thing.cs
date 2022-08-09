@@ -7,7 +7,7 @@ namespace PacktLibrary.Shared
         public object Data;
         public string Process(string input)
         {
-            if (Data == input)
+            if (Data.ToString() == input)
             {
                 return "Data and imput are the same.";
             }

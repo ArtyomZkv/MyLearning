@@ -77,6 +77,13 @@ System.Console.WriteLine("{0} sqared is {1}", number1, Squarer.Square<string>(nu
 byte number2 = 3;
 System.Console.WriteLine("{0} squared is {1}", number2, Squarer.Square(number2));
 
+var dv1 = new DisplacementVector(3, 5);
+var dv2 = new DisplacementVector(-2, 7);
+
+var dv3 = dv1 + dv2;
+
+System.Console.WriteLine($"({dv1.X}, {dv1.Y}) + ({dv2.X}, {dv2.Y}) = ({dv3.X}, {dv3.Y})");
+
 void Harry_Shout(object sender, EventArgs e)
 {
     Person p = (Person)sender;

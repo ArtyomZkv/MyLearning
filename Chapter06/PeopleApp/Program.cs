@@ -25,7 +25,7 @@ namespace PacktLibrary
 
             System.Console.WriteLine($"5! is {Person.Factorial(5)}");
 
-            harry.Shout += Harry_Shout;
+            //harry.Shout += Harry_Shout;
 
             harry.Poke();
             harry.Poke();
@@ -98,19 +98,23 @@ namespace PacktLibrary
 
             System.Console.WriteLine($"({dv1.X}, {dv1.Y}) + ({dv2.X}, {dv2.Y}) = ({dv3.X}, {dv3.Y})");
 
-            static void Harry_Shout(object sender, EventArgs e)
+            /*static void Harry_Shout(object sender, EventArgs e)
             {
                 Person p = (Person)sender;
                 System.Console.WriteLine($"{p.Name} is this angry: {p.AngerLevel}.");
                 System.Console.WriteLine($"{p.GetType()}, {sender.GetType()}");
-            }
+            }*/
 
             Employee john = new()
             {
                 Name = "John Jones",
-                DateOfBirth = new DateTime(1990, 7, 28)
-            };
+                DateOfBirth = new DateTime(1990, 7, 28),
+                EmployeeCode = "JJ001",
+                HireDate = new DateTime(2024, 11, 23),
+        };
             john.WriteToConsole();
+            System.Console.WriteLine($"{john.Name} was hired on {john.HireDate:dd/MM/yy}");
+            System.Console.WriteLine(john.ToString());
         }       
     }
 }

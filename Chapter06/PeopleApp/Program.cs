@@ -111,7 +111,21 @@ namespace PacktLibrary
                 DateOfBirth = new DateTime(1990, 7, 28),
                 EmployeeCode = "JJ001",
                 HireDate = new DateTime(2024, 11, 23),
-        };
+            };
+
+            Employee aliceInEmployee = new()
+            {
+                Name = "Alice",
+                EmployeeCode = "AA123",
+            };
+            Person aliceInPerson = aliceInEmployee;
+
+            aliceInEmployee.WriteToConsole();
+            aliceInPerson.WriteToConsole();
+
+            System.Console.WriteLine(aliceInEmployee.ToString());
+            System.Console.WriteLine(aliceInPerson.ToString());
+            
             john.WriteToConsole();
             System.Console.WriteLine($"{john.Name} was hired on {john.HireDate:dd/MM/yy}");
             System.Console.WriteLine(john.ToString());

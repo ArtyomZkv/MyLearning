@@ -122,10 +122,23 @@ namespace PacktLibrary
 
             aliceInEmployee.WriteToConsole();
             aliceInPerson.WriteToConsole();
-
+            
             System.Console.WriteLine(aliceInEmployee.ToString());
             System.Console.WriteLine(aliceInPerson.ToString());
-            
+
+            if (aliceInPerson is Employee)
+            {
+                System.Console.WriteLine($"{nameof(aliceInPerson)} IS an Employee");
+                Employee explicitAlice = (Employee)aliceInPerson;
+            }
+
+            Employee aliceAsEmployee = aliceInPerson as Employee;
+
+            if (aliceAsEmployee != null)
+            {
+                System.Console.WriteLine($"{nameof(aliceInPerson)} AS an Employee");
+            }
+
             john.WriteToConsole();
             System.Console.WriteLine($"{john.Name} was hired on {john.HireDate:dd/MM/yy}");
             System.Console.WriteLine(john.ToString());

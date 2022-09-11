@@ -122,7 +122,7 @@ namespace PacktLibrary
 
             aliceInEmployee.WriteToConsole();
             aliceInPerson.WriteToConsole();
-            
+
             System.Console.WriteLine(aliceInEmployee.ToString());
             System.Console.WriteLine(aliceInPerson.ToString());
 
@@ -142,6 +142,27 @@ namespace PacktLibrary
             john.WriteToConsole();
             System.Console.WriteLine($"{john.Name} was hired on {john.HireDate:dd/MM/yy}");
             System.Console.WriteLine(john.ToString());
-        }       
+            
+            try
+            {
+                john.TimeTravel(new DateTime(1999, 12, 31));
+                john.TimeTravel(new DateTime(1950, 12, 25));
+            }
+            catch (PersonException ex)
+            {
+                System.Console.WriteLine(ex.Message);
+            }
+
+            string email1 = "pamela@test.com";
+            string email2 = "ian&test.com";
+
+            System.Console.WriteLine("{0} is a valid e-mail address: {1}",
+                            arg0: email1,
+                            arg1: email1.IsValidEmail());
+
+            System.Console.WriteLine("{0} is a valid e-mail address: {1}",
+                            arg0: email2,
+                            arg1: email2.IsValidEmail());
+        }
     }
 }

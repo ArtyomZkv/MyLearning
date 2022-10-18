@@ -1,0 +1,12 @@
+G:\Projects\2022\LearningRepos\Chapter07\SharedLibrary\obj\Debug\net5.0\SharedLibrary.csproj.AssemblyReference.cache
+G:\Projects\2022\LearningRepos\Chapter07\SharedLibrary\obj\Debug\net5.0\SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\2022\LearningRepos\Chapter07\SharedLibrary\obj\Debug\net5.0\SharedLibrary.AssemblyInfoInputs.cache
+G:\Projects\2022\LearningRepos\Chapter07\SharedLibrary\obj\Debug\net5.0\SharedLibrary.AssemblyInfo.cs
+G:\Projects\2022\LearningRepos\Chapter07\SharedLibrary\obj\Debug\net5.0\SharedLibrary.csproj.CoreCompileInputs.cache
+G:\Projects\2022\LearningRepos\Chapter07\SharedLibrary\bin\Debug\net5.0\SharedLibrary.deps.json
+G:\Projects\2022\LearningRepos\Chapter07\SharedLibrary\bin\Debug\net5.0\SharedLibrary.dll
+G:\Projects\2022\LearningRepos\Chapter07\SharedLibrary\bin\Debug\net5.0\SharedLibrary.pdb
+G:\Projects\2022\LearningRepos\Chapter07\SharedLibrary\obj\Debug\net5.0\SharedLibrary.dll
+G:\Projects\2022\LearningRepos\Chapter07\SharedLibrary\obj\Debug\net5.0\refint\SharedLibrary.dll
+G:\Projects\2022\LearningRepos\Chapter07\SharedLibrary\obj\Debug\net5.0\SharedLibrary.pdb
+G:\Projects\2022\LearningRepos\Chapter07\SharedLibrary\obj\Debug\net5.0\ref\SharedLibrary.dll

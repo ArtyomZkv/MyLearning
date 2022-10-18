@@ -1,5 +1,5 @@
 ﻿using System;
-using System.Xml.Linq;
+using SharedLibrary;
 
 namespace AssembliesAndNamespaces
 {
@@ -7,12 +7,17 @@ namespace AssembliesAndNamespaces
     {
         static void Main()
         {
-            var doc = new XDocument();
+            System.Console.WriteLine("Enter a color value in hex :");
+            string hex = Console.ReadLine();
+            System.Console.WriteLine($"Is {hex} a valid color value {hex.IsValidHex}");
 
-            string s1 = "Hello";
-            string s2 = "World";
+            System.Console.WriteLine("Enter a XML element: ");
+            string xmlTag = Console.ReadLine();
+            System.Console.WriteLine($"Is {xmlTag} a valid XML element? {xmlTag.IsValidXmlTag()}");
 
-            Console.WriteLine($"{s1} {s2}");
+            System.Console.WriteLine("Enter a password: ");
+            string password = Console.ReadLine();
+            System.Console.WriteLine($"Is {password} a valid password? {password.IsValidPassword()}");
         }
     }
 }

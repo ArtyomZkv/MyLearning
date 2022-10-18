@@ -3,7 +3,7 @@ using System.Text.RegularExpressions;
 
 namespace SharedLibrary
 {
-    public class StringExtensions
+    public static class StringExtensions
     {
         public static bool IsValidXmlTag(this string input)
         {

@@ -8,6 +8,10 @@
   <ItemGroup>
     <ProjectReference
       Include ="..\SharedLibrary\SharedLibrary.csproj" />
+    
+    <PackageReference
+      Include ="dialectsoftware.collections.matrix"
+      Version ="1.0.0" />
   </ItemGroup>
 
 </Project>

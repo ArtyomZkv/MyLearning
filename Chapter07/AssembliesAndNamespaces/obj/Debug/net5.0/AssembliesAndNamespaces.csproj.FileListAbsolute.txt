@@ -17,3 +17,4 @@ G:\Projects\2022\LearningRepos\Chapter07\AssembliesAndNamespaces\obj\Debug\net5.
 G:\Projects\2022\LearningRepos\Chapter07\AssembliesAndNamespaces\obj\Debug\net5.0\AssembliesAndNamespaces.pdb
 G:\Projects\2022\LearningRepos\Chapter07\AssembliesAndNamespaces\obj\Debug\net5.0\AssembliesAndNamespaces.genruntimeconfig.cache
 G:\Projects\2022\LearningRepos\Chapter07\AssembliesAndNamespaces\obj\Debug\net5.0\ref\AssembliesAndNamespaces.dll
+G:\Projects\2022\LearningRepos\Chapter07\AssembliesAndNamespaces\bin\Debug\net5.0\DialectSoftware.Collections.Matrix.dll

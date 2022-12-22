@@ -2,6 +2,15 @@
   "version": 3,
   "targets": {
     "net5.0": {
+      "DialectSoftware.Collections.Matrix/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/DialectSoftware.Collections.Matrix.dll": {}
+        },
+        "runtime": {
+          "lib/DialectSoftware.Collections.Matrix.dll": {}
+        }
+      },
       "SharedLibrary/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -15,6 +24,18 @@
     }
   },
   "libraries": {
+    "DialectSoftware.Collections.Matrix/1.0.0": {
+      "sha512": "O0//+wnBGhEn+dMj60Cfg0DhlR/IrCFvCI4Bqau5ygQVOnxApV5O2NqRQtCYNUVERW+VrNmGiYZHsU/zrV8eSQ==",
+      "type": "package",
+      "path": "dialectsoftware.collections.matrix/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "dialectsoftware.collections.matrix.1.0.0.nupkg.sha512",
+        "dialectsoftware.collections.matrix.nuspec",
+        "lib/DialectSoftware.Collections.Matrix.dll"
+      ]
+    },
     "SharedLibrary/1.0.0": {
       "type": "project",
       "path": "../SharedLibrary/SharedLibrary.csproj",
@@ -23,7 +44,8 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "SharedLibrary >= 1.0.0"
+      "SharedLibrary >= 1.0.0",
+      "dialectsoftware.collections.matrix >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -73,6 +95,12 @@
     "frameworks": {
       "net5.0": {
         "targetAlias": "net5.0",
+        "dependencies": {
+          "dialectsoftware.collections.matrix": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",
@@ -97,5 +125,17 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"DialectSoftware.Collections.Matrix 1.0.0\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \"net5.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "DialectSoftware.Collections.Matrix",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
 }

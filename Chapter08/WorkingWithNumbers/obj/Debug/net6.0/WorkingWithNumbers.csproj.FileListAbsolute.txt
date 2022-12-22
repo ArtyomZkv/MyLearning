@@ -1,0 +1,15 @@
+G:\Projects\2022\LearningRepos\Chapter08\WorkingWithNumbers\obj\Debug\net6.0\WorkingWithNumbers.csproj.AssemblyReference.cache
+G:\Projects\2022\LearningRepos\Chapter08\WorkingWithNumbers\obj\Debug\net6.0\WorkingWithNumbers.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\2022\LearningRepos\Chapter08\WorkingWithNumbers\obj\Debug\net6.0\WorkingWithNumbers.AssemblyInfoInputs.cache
+G:\Projects\2022\LearningRepos\Chapter08\WorkingWithNumbers\obj\Debug\net6.0\WorkingWithNumbers.AssemblyInfo.cs
+G:\Projects\2022\LearningRepos\Chapter08\WorkingWithNumbers\obj\Debug\net6.0\WorkingWithNumbers.csproj.CoreCompileInputs.cache
+G:\Projects\2022\LearningRepos\Chapter08\WorkingWithNumbers\bin\Debug\net6.0\WorkingWithNumbers.exe
+G:\Projects\2022\LearningRepos\Chapter08\WorkingWithNumbers\bin\Debug\net6.0\WorkingWithNumbers.deps.json
+G:\Projects\2022\LearningRepos\Chapter08\WorkingWithNumbers\bin\Debug\net6.0\WorkingWithNumbers.runtimeconfig.json
+G:\Projects\2022\LearningRepos\Chapter08\WorkingWithNumbers\bin\Debug\net6.0\WorkingWithNumbers.dll
+G:\Projects\2022\LearningRepos\Chapter08\WorkingWithNumbers\bin\Debug\net6.0\WorkingWithNumbers.pdb
+G:\Projects\2022\LearningRepos\Chapter08\WorkingWithNumbers\obj\Debug\net6.0\WorkingWithNumbers.dll
+G:\Projects\2022\LearningRepos\Chapter08\WorkingWithNumbers\obj\Debug\net6.0\refint\WorkingWithNumbers.dll
+G:\Projects\2022\LearningRepos\Chapter08\WorkingWithNumbers\obj\Debug\net6.0\WorkingWithNumbers.pdb
+G:\Projects\2022\LearningRepos\Chapter08\WorkingWithNumbers\obj\Debug\net6.0\WorkingWithNumbers.genruntimeconfig.cache
+G:\Projects\2022\LearningRepos\Chapter08\WorkingWithNumbers\obj\Debug\net6.0\ref\WorkingWithNumbers.dll

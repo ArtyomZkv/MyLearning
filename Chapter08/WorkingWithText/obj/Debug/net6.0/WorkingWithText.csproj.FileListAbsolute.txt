@@ -1,0 +1,15 @@
+G:\Projects\2022\LearningRepos\Chapter08\WorkingWithText\bin\Debug\net6.0\WorkingWithText.exe
+G:\Projects\2022\LearningRepos\Chapter08\WorkingWithText\bin\Debug\net6.0\WorkingWithText.deps.json
+G:\Projects\2022\LearningRepos\Chapter08\WorkingWithText\bin\Debug\net6.0\WorkingWithText.runtimeconfig.json
+G:\Projects\2022\LearningRepos\Chapter08\WorkingWithText\bin\Debug\net6.0\WorkingWithText.dll
+G:\Projects\2022\LearningRepos\Chapter08\WorkingWithText\bin\Debug\net6.0\WorkingWithText.pdb
+G:\Projects\2022\LearningRepos\Chapter08\WorkingWithText\obj\Debug\net6.0\WorkingWithText.csproj.AssemblyReference.cache
+G:\Projects\2022\LearningRepos\Chapter08\WorkingWithText\obj\Debug\net6.0\WorkingWithText.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\2022\LearningRepos\Chapter08\WorkingWithText\obj\Debug\net6.0\WorkingWithText.AssemblyInfoInputs.cache
+G:\Projects\2022\LearningRepos\Chapter08\WorkingWithText\obj\Debug\net6.0\WorkingWithText.AssemblyInfo.cs
+G:\Projects\2022\LearningRepos\Chapter08\WorkingWithText\obj\Debug\net6.0\WorkingWithText.csproj.CoreCompileInputs.cache
+G:\Projects\2022\LearningRepos\Chapter08\WorkingWithText\obj\Debug\net6.0\WorkingWithText.dll
+G:\Projects\2022\LearningRepos\Chapter08\WorkingWithText\obj\Debug\net6.0\refint\WorkingWithText.dll
+G:\Projects\2022\LearningRepos\Chapter08\WorkingWithText\obj\Debug\net6.0\WorkingWithText.pdb
+G:\Projects\2022\LearningRepos\Chapter08\WorkingWithText\obj\Debug\net6.0\WorkingWithText.genruntimeconfig.cache
+G:\Projects\2022\LearningRepos\Chapter08\WorkingWithText\obj\Debug\net6.0\ref\WorkingWithText.dll

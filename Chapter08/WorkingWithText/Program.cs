@@ -40,6 +40,15 @@ namespace WorkWithText
             string lastName2 = fullName2.Substring(0, indexOfTheSpace2-1);
 
             System.Console.WriteLine(fullName2);
+
+            string company = "Microsoft";
+
+            bool startsWithM = company.StartsWith("M");
+
+            bool containsN = company.Contains("N");
+
+            System.Console.WriteLine($"Starts with M: {startsWithM}, contains an N: {containsN}");
+
         }
     }
 }

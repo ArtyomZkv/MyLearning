@@ -19,6 +19,27 @@ namespace WorkWithText
             {
                 System.Console.WriteLine(item);
             }
+
+            string fullName = "Alan Jones";
+
+            int indexOfTheSpace = fullName.IndexOf(' ');
+
+            string firstName = fullName.Substring(0, indexOfTheSpace);
+
+            string lastName = fullName.Substring(indexOfTheSpace+1);
+
+            System.Console.WriteLine($"{lastName}, {firstName}");
+
+
+            string fullName2 = "Jones, Alan";
+
+            int indexOfTheSpace2 = fullName2.IndexOf(' ');
+
+            string firstName2 = fullName2.Substring(indexOfTheSpace2+1);
+
+            string lastName2 = fullName2.Substring(0, indexOfTheSpace2-1);
+
+            System.Console.WriteLine(fullName2);
         }
     }
 }

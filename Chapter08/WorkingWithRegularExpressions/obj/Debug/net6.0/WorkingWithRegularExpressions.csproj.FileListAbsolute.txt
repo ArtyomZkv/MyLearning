@@ -1,0 +1,15 @@
+G:\Projects\2022\LearningRepos\Chapter08\WorkingWithRegularExpressions\obj\Debug\net6.0\WorkingWithRegularExpressions.csproj.AssemblyReference.cache
+G:\Projects\2022\LearningRepos\Chapter08\WorkingWithRegularExpressions\obj\Debug\net6.0\WorkingWithRegularExpressions.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\2022\LearningRepos\Chapter08\WorkingWithRegularExpressions\obj\Debug\net6.0\WorkingWithRegularExpressions.AssemblyInfoInputs.cache
+G:\Projects\2022\LearningRepos\Chapter08\WorkingWithRegularExpressions\obj\Debug\net6.0\WorkingWithRegularExpressions.AssemblyInfo.cs
+G:\Projects\2022\LearningRepos\Chapter08\WorkingWithRegularExpressions\obj\Debug\net6.0\WorkingWithRegularExpressions.csproj.CoreCompileInputs.cache
+G:\Projects\2022\LearningRepos\Chapter08\WorkingWithRegularExpressions\bin\Debug\net6.0\WorkingWithRegularExpressions.exe
+G:\Projects\2022\LearningRepos\Chapter08\WorkingWithRegularExpressions\bin\Debug\net6.0\WorkingWithRegularExpressions.deps.json
+G:\Projects\2022\LearningRepos\Chapter08\WorkingWithRegularExpressions\bin\Debug\net6.0\WorkingWithRegularExpressions.runtimeconfig.json
+G:\Projects\2022\LearningRepos\Chapter08\WorkingWithRegularExpressions\bin\Debug\net6.0\WorkingWithRegularExpressions.dll
+G:\Projects\2022\LearningRepos\Chapter08\WorkingWithRegularExpressions\bin\Debug\net6.0\WorkingWithRegularExpressions.pdb
+G:\Projects\2022\LearningRepos\Chapter08\WorkingWithRegularExpressions\obj\Debug\net6.0\WorkingWithRegularExpressions.dll
+G:\Projects\2022\LearningRepos\Chapter08\WorkingWithRegularExpressions\obj\Debug\net6.0\refint\WorkingWithRegularExpressions.dll
+G:\Projects\2022\LearningRepos\Chapter08\WorkingWithRegularExpressions\obj\Debug\net6.0\WorkingWithRegularExpressions.pdb
+G:\Projects\2022\LearningRepos\Chapter08\WorkingWithRegularExpressions\obj\Debug\net6.0\WorkingWithRegularExpressions.genruntimeconfig.cache
+G:\Projects\2022\LearningRepos\Chapter08\WorkingWithRegularExpressions\obj\Debug\net6.0\ref\WorkingWithRegularExpressions.dll

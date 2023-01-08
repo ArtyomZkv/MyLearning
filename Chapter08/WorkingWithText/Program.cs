@@ -49,6 +49,15 @@ namespace WorkWithText
 
             System.Console.WriteLine($"Starts with M: {startsWithM}, contains an N: {containsN}");
 
+            string recombined = string.Join(" => ", citiesArray);
+            System.Console.WriteLine(recombined);
+
+            string fruit = "Apples";
+            decimal price = 0.39M;
+            DateTime when = DateTime.Today;
+
+            System.Console.WriteLine($"{fruit} cost {price:C} on {when:dddd}.");
+            System.Console.WriteLine(String.Format("{0} cost {1:C} on {2:dddd}.", fruit, price, when));
         }
     }
 }

@@ -26,6 +26,7 @@ namespace WorkingWithRegularExpressions
             string[] filmsDumb = films.Split(',');
 
             System.Console.WriteLine("Dumb attempt at splitting:");
+            
             foreach (string film in filmsDumb)
             {
                 System.Console.WriteLine(film);

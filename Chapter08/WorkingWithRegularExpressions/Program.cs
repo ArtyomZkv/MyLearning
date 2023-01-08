@@ -23,16 +23,19 @@ namespace WorkingWithRegularExpressions
 
             string films = "\"Monsters, Inc.\",\"I, Tonya\",\"Lock, Stock and Two Smoking Barrels\"";
 
-            string[] filmsDumb = films.Split(',');
-
-            System.Console.WriteLine("Dumb attempt at splitting:");
+            var csv = new Regex("(?:^|,)(?=[^\"]|(\")?)\"?((?(1)[^\"]*|[^,\"]*))\"?(?=,|$)");
             
-            foreach (string film in filmsDumb)
+            MatchCollection filmsSmart = csv.Matches(films);
+            
+            Console.WriteLine("Smart attempt at splitting:");
+            
+            foreach (Match film in filmsSmart)
             {
-                System.Console.WriteLine(film);
+                Console.WriteLine(film.Groups[2].Value);
             }
 
-            
+
+
         }
     }
 }

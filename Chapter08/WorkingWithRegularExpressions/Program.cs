@@ -10,7 +10,7 @@ namespace WorkingWithRegularExpressions
             System.Console.WriteLine("Enter your age: ");
             string input = Console.ReadLine();
 
-            var ageChecker = new Regex(@"\d");
+            var ageChecker = new Regex(@"^\d+$");
 
             if (ageChecker.IsMatch(input))
             {
@@ -20,6 +20,18 @@ namespace WorkingWithRegularExpressions
             {
                 System.Console.WriteLine($"This is not a valid age: {input}");
             }
+
+            string films = "\"Monsters, Inc.\",\"I, Tonya\",\"Lock, Stock and Two Smoking Barrels\"";
+
+            string[] filmsDumb = films.Split(',');
+
+            System.Console.WriteLine("Dumb attempt at splitting:");
+            foreach (string film in filmsDumb)
+            {
+                System.Console.WriteLine(film);
+            }
+
+            
         }
     }
 }
